@@ -40,8 +40,8 @@ from datetime import datetime # Date handling
     Setup:
     bash
 
-    git clone https://github.com/creppymain/covid-19.git
-    cd covid-19
+    git clone https://github.com/creppymain/covid19.git
+    cd covid19
     pip install -r requirements.txt
 
     Running the Analysis:
